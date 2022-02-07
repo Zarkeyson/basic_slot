@@ -8,7 +8,7 @@
   <body>
 
     <div id="title">
-      <h2>Welcome to my casino you fcking shit</h2>
+      <h2>Welcome to my casino</h2>
       <img class="casino" src="casino.jpg">
     </div>
     <br>
